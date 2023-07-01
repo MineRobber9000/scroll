@@ -1,0 +1,15 @@
+{
+  "name": "scroll",
+  "type": "module",
+  "version": "0.1.0",
+  "description": "dice roller for switchcraft",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "switchchat": "^3.2.1"
+  }
+}
